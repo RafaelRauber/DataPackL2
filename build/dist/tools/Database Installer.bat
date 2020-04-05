@@ -4,7 +4,7 @@ REM ###############################################
 REM ##        Configure Database Settings        ##
 REM ###############################################
 REM Please, type here you dir to mysql directory \bin. Example : C:\Program Files\MySQL\MySQL Server 5.1\bin
-set mysqlBinPath=C:\Program Files\MySQL\MySQL Server 5.1\bin
+set mysqlBinPath=C:\Program Files\MySQL\MySQL Server 5.5\bin
 
 set DateT=%date%
 
