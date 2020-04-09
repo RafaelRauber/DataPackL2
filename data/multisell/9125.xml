@@ -1,282 +1,452 @@
 <?xml version='1.0' encoding='utf-8'?>
 
-<!-- Masks -->
+<!-- S-Grade Weapons -->
 
 <list>
 
-  <!-- Party Mask -->
+  <!-- Heaven's Divider [Haste] -->
   <item id="1">
-    <ingredient id="57" count="20000000"/>
-    <production id="5808" count="1"/>
+    <ingredient id="3470" count="12"/>
+    <production id="6605" count="1"/>
   </item>
 
-  <!-- Red Party Mask -->
+  <!-- Heaven's Divider [Focus] -->
   <item id="2">
-    <ingredient id="57" count="20000000"/>
-    <production id="6394" count="1"/>
+    <ingredient id="3470" count="12"/>
+    <production id="6607" count="1"/>
   </item>
 
-  <!-- Cat Ear -->
+  <!-- Heaven's Divider [Health] -->
   <item id="3">
-    <ingredient id="57" count="20000000"/>
-    <production id="6843" count="1"/>
+    <ingredient id="3470" count="12"/>
+    <production id="6606" count="1"/>
   </item>
 
-  <!-- Lady's Hair Pin -->
+  <!-- Forgotten Blade [Haste] -->
   <item id="4">
-    <ingredient id="57" count="20000000"/>
-    <production id="6844" count="1"/>
+    <ingredient id="3470" count="10"/>
+    <production id="6581" count="1"/>
   </item>
 
-  <!-- Pirate's Eye Patch -->
+  <!-- Forgotten Blade [Health] -->
   <item id="5">
-    <ingredient id="57" count="20000000"/>
-    <production id="6845" count="1"/>
+    <ingredient id="3470" count="10"/>
+    <production id="6582" count="1"/>
   </item>
 
-  <!-- Monocle -->
+  <!-- Forgotten Blade [Focus] -->
   <item id="6">
-    <ingredient id="57" count="20000000"/>
-    <production id="6846" count="1"/>
+    <ingredient id="3470" count="10"/>
+    <production id="6583" count="1"/>
   </item>
 
-  <!-- Tateossian Hairband -->
+  <!-- Arcana Mace [Acumen] -->
   <item id="7">
-    <ingredient id="57" count="20000000"/>
-    <production id="7060" count="1"/>
+    <ingredient id="3470" count="12"/>
+    <production id="6608" count="1"/>
   </item>
 
-  <!-- Raccoon Ears -->
+  <!-- Arcana Mace [HP Regeneration] -->
   <item id="8">
-    <ingredient id="57" count="20000000"/>
-    <production id="7680" count="1"/>
+    <ingredient id="3470" count="12"/>
+    <production id="6609" count="1"/>
   </item>
 
-  <!-- Outlaw's Eyepatch -->
+  <!-- Arcana Mace [Acumen] -->
   <item id="9">
-    <ingredient id="57" count="20000000"/>
-    <production id="7681" count="1"/>
+    <ingredient id="3470" count="12"/>
+    <production id="6610" count="1"/>
   </item>
 
-  <!-- Maiden's Hairpin -->
+  <!-- Basalt Battlehammer [HP Drain] -->
   <item id="10">
-    <ingredient id="57" count="20000000"/>
-    <production id="7682" count="1"/>
+    <ingredient id="3470" count="7"/>
+    <production id="6584" count="1"/>
   </item>
 
-  <!-- Rabbit Ears -->
+  <!-- Basalt Battlehammer [Health] -->
   <item id="11">
-    <ingredient id="57" count="20000000"/>
-    <production id="7683" count="1"/>
+    <ingredient id="3470" count="7"/>
+    <production id="6585" count="1"/>
   </item>
 
-  <!-- Forget-me-not Hairpin -->
+  <!-- Basalt Battlehammer [HP Regeneration] -->
   <item id="12">
-    <ingredient id="57" count="20000000"/>
-    <production id="7695" count="1"/>
+    <ingredient id="3470" count="7"/>
+    <production id="6586" count="1"/>
   </item>
 
-  <!-- Daisy Hairpin -->
+  <!-- Imperial Staff [Empower] -->
   <item id="13">
-    <ingredient id="57" count="20000000"/>
-    <production id="7696" count="1"/>
+    <ingredient id="3470" count="7"/>
+    <production id="6587" count="1"/>
   </item>
 
-  <!-- Santa's Hat -->
+  <!-- Imperial Staff [MP Regeneration] -->
   <item id="14">
-    <ingredient id="57" count="20000000"/>
-    <production id="7836" count="1"/>
+    <ingredient id="3470" count="7"/>
+    <production id="6588" count="1"/>
   </item>
 
-  <!-- Sayha's White Mask -->
+  <!-- Imperial Staff [Magic Hold] -->
   <item id="15">
-    <ingredient id="57" count="20000000"/>
-    <production id="7837" count="1"/>
+    <ingredient id="3470" count="7"/>
+    <production id="6589" count="1"/>
   </item>
 
-  <!-- Gold-line Mask-Black -->
+  <!-- Angel Slayer [Crt. Damage] -->
   <item id="16">
-    <ingredient id="57" count="20000000"/>
-    <production id="7839" count="1"/>
+    <ingredient id="3470" count="12"/>
+    <production id="6590" count="1"/>
   </item>
 
-  <!-- Raid Challenger's Circlet -->
+  <!-- Angel Slayer [Haste] -->
   <item id="17">
-    <ingredient id="57" count="20000000"/>
-    <production id="8177" count="1"/>
+    <ingredient id="3470" count="12"/>
+    <production id="6591" count="1"/>
   </item>
 
-  <!-- Raid Adventurer's Circlet -->
+  <!-- Angel Slayer [HP Drain] -->
   <item id="18">
-    <ingredient id="57" count="20000000"/>
-    <production id="8178" count="1"/>
+    <ingredient id="3470" count="12"/>
+    <production id="6592" count="1"/>
   </item>
 
-  <!-- Raid Master's Circlet -->
+  <!-- Shining Bow [Cheap Shot] -->
   <item id="19">
-    <ingredient id="57" count="20000000"/>
-    <production id="8179" count="1"/>
+    <ingredient id="3470" count="12"/>
+    <production id="6593" count="1"/>
   </item>
 
-  <!-- Circlet of Ice Fairy Sirra -->
+  <!-- Shining Bow [Focus] -->
   <item id="20">
-    <ingredient id="57" count="20000000"/>
-    <production id="8780" count="1"/>
+    <ingredient id="3470" count="12"/>
+    <production id="6594" count="1"/>
   </item>
 
-  <!-- Party Hat -->
+  <!-- Shining Bow [Crt. Slow] -->
   <item id="21">
-    <ingredient id="57" count="20000000"/>
-    <production id="8184" count="1"/>
+    <ingredient id="3470" count="12"/>
+    <production id="6595" count="1"/>
   </item>
 
-  <!-- Feathered Hat -->
+  <!-- Dragon Hunter Axe [HP Regeneration] -->
   <item id="22">
-    <ingredient id="57" count="20000000"/>
-    <production id="8185" count="1"/>
+    <ingredient id="3470" count="10"/>
+    <production id="6596" count="1"/>
   </item>
 
-  <!-- Artisan's Goggles -->
+  <!-- Dragon Hunter Axe [Health] -->
   <item id="23">
-    <ingredient id="57" count="20000000"/>
-    <production id="8186" count="1"/>
+    <ingredient id="3470" count="10"/>
+    <production id="6597" count="1"/>
   </item>
 
-  <!-- Demon Horns -->
+  <!-- Dragon Hunter Axe [HP Drain] -->
   <item id="24">
-    <ingredient id="57" count="20000000"/>
-    <production id="8187" count="1"/>
+    <ingredient id="3470" count="10"/>
+    <production id="6598" count="1"/>
   </item>
 
-  <!-- Little Angel wing -->
+  <!-- Saint Spear [Health] -->
   <item id="25">
-    <ingredient id="57" count="20000000"/>
-    <production id="8188" count="1"/>
+    <ingredient id="3470" count="10"/>
+    <production id="6599" count="1"/>
   </item>
 
-  <!-- Fairy Antennae -->
+  <!-- Saint Spear [Guidance] -->
   <item id="26">
-    <ingredient id="57" count="20000000"/>
-    <production id="8189" count="1"/>
+    <ingredient id="3470" count="10"/>
+    <production id="6600" count="1"/>
   </item>
 
-  <!-- Mask of Spirits -->
+  <!-- Saint Spear [Haste] -->
   <item id="27">
-    <ingredient id="57" count="20000000"/>
-    <production id="8552" count="1"/>
+    <ingredient id="3470" count="10"/>
+    <production id="6601" count="1"/>
   </item>
 
-  <!-- Blue Party Hat -->
+  <!-- Demon Splinter [Focus] -->
   <item id="28">
-    <ingredient id="57" count="20000000"/>
-    <production id="8557" count="1"/>
+    <ingredient id="3470" count="10"/>
+    <production id="6602" count="1"/>
   </item>
 
-  <!-- Eva's Mark -->
+  <!-- Demon Splinter [Health] -->
   <item id="29">
-    <ingredient id="57" count="20000000"/>
-    <production id="8558" count="1"/>
+    <ingredient id="3470" count="10"/>
+    <production id="6603" count="1"/>
   </item>
 
-  <!-- Pirate's Eye Patch -->
+  <!-- Demon Splinter [Crt. Stun] -->
   <item id="30">
-    <ingredient id="57" count="20000000"/>
-    <production id="6845" count="1"/>
+    <ingredient id="3470" count="10"/>
+    <production id="6604" count="1"/>
   </item>
 
-  <!-- Leather Cap -->
+  <!-- Tallum Blade*Dark Legion's Edge -->
   <item id="31">
-    <ingredient id="57" count="20000000"/>
-    <production id="42" count="1"/>
+    <ingredient id="57" count="200000000"/>
+    <production id="6580" count="1"/>
   </item>
 
-  <!-- Scar -->
+  <!-- Draconic Bow [Cheap Shot] -->
   <item id="32">
-    <ingredient id="57" count="20000000"/>
-    <production id="8923" count="1"/>
+    <ingredient id="3470" count="12"/>
+    <production id="7576" count="1"/>
   </item>
 
-  <!-- Wizard's Hat -->
+  <!-- Draconic Bow [Focus] -->
   <item id="33">
-    <ingredient id="57" count="20000000"/>
-    <production id="8563" count="1"/>
+    <ingredient id="3470" count="12"/>
+    <production id="7577" count="1"/>
   </item>
 
-  <!-- Dapper Hat -->
+  <!-- Draconic Bow [Critical Slow] -->
   <item id="34">
-    <ingredient id="57" count="20000000"/>
-    <production id="8564" count="1"/>
+    <ingredient id="3470" count="12"/>
+    <production id="7578" count="1"/>
   </item>
 
-  <!-- Romantic Chapeau -->
+  <!-- Dynasty Rapier - Focus -->
   <item id="35">
-    <ingredient id="57" count="20000000"/>
-    <production id="8565" count="1"/>
+    <ingredient id="3470" count="18"/>
+    <production id="9801" count="1"/>
   </item>
 
-  <!-- Iron Circlet -->
+  <!-- Dynasty Rapier - Health  -->
   <item id="36">
-    <ingredient id="57" count="20000000"/>
-    <production id="8566" count="1"/>
+    <ingredient id="3470" count="18"/>
+    <production id="9802" count="1"/>
   </item>
 
-  <!-- Black mask -->
+  <!-- Dynasty Rapier - Light -->
   <item id="37">
-    <ingredient id="57" count="20000000"/>
-    <production id="8911" count="1"/>
+    <ingredient id="3470" count="18"/>
+    <production id="9803" count="1"/>
   </item>
-
-  <!-- Half face mask -->
+  
+    <!-- Dynasty Ancient Sword - Focus -->
   <item id="38">
-    <ingredient id="57" count="20000000"/>
-    <production id="8569" count="1"/>
+    <ingredient id="3470" count="18"/>
+    <production id="9805" count="1"/>
   </item>
 
-
-
+  <!-- Dynasty Ancient Sword - Health  -->
   <item id="39">
-    <ingredient id="57" count="10000000"/>
-    <production id="614" count="1"/>
+    <ingredient id="3470" count="18"/>
+    <production id="9806" count="1"/>
   </item>
+
+  <!-- Dynasty Ancient Sword - Light -->
   <item id="40">
-    <ingredient id="57" count="10000000"/>
-    <production id="615" count="1"/>
+    <ingredient id="3470" count="18"/>
+    <production id="9807" count="1"/>
   </item>
+  
+      <!-- Dynasty Blade - Focus -->
   <item id="41">
-    <ingredient id="57" count="10000000"/>
-    <production id="616" count="1"/>
+    <ingredient id="3470" count="18"/>
+    <production id="9809" count="1"/>
   </item>
+
+  <!-- Dynasty Blade - Health  -->
   <item id="42">
-    <ingredient id="57" count="10000000"/>
-    <production id="617" count="1"/>
+    <ingredient id="3470" count="18"/>
+    <production id="9810" count="1"/>
   </item>
+
+  <!-- Dynasty Blade - Light -->
   <item id="43">
-    <ingredient id="57" count="10000000"/>
-    <production id="618" count="1"/>
+    <ingredient id="3470" count="18"/>
+    <production id="9811" count="1"/>
   </item>
+  
+       <!-- Dynasty Two Handed Sword - Focus -->
   <item id="44">
-    <ingredient id="57" count="10000000"/>
-    <production id="619" count="1"/>
+    <ingredient id="3470" count="18"/>
+    <production id="9813" count="1"/>
   </item>
+
+  <!-- Dynasty Two Handed Sword - Health  -->
   <item id="45">
-    <ingredient id="57" count="10000000"/>
-    <production id="620" count="1"/>
+    <ingredient id="3470" count="18"/>
+    <production id="9814" count="1"/>
   </item>
+
+  <!-- Dynasty Two Handed Sword - Light -->
   <item id="46">
-    <ingredient id="57" count="10000000"/>
-    <production id="621" count="1"/>
+    <ingredient id="3470" count="18"/>
+    <production id="9815" count="1"/>
   </item>
+  
+  <!-- Dynasty Magic Sword - Acumen -->
   <item id="47">
-    <ingredient id="57" count="10000000"/>
-    <production id="622" count="1"/>
+    <ingredient id="3470" count="18"/>
+    <production id="9817" count="1"/>
   </item>
+
+  <!-- Dynasty Magic Sword - Mana Up  -->
   <item id="48">
-    <ingredient id="57" count="10000000"/>
-    <production id="623" count="1"/>
+    <ingredient id="3470" count="18"/>
+    <production id="9818" count="1"/>
   </item>
+
+  <!-- Dynasty Magic Sword - Conversion -->
   <item id="49">
-    <ingredient id="57" count="10000000"/>
-    <production id="624" count="1"/>
+    <ingredient id="3470" count="18"/>
+    <production id="9819" count="1"/>
   </item>
+  
+    <!-- Dynasty Bow - Cheap Shot -->
+  <item id="50">
+    <ingredient id="3470" count="18"/>
+    <production id="9821" count="1"/>
+  </item>
+
+  <!-- Dynasty Bow - Guidance  -->
+  <item id="51">
+    <ingredient id="3470" count="18"/>
+    <production id="9822" count="1"/>
+  </item>
+
+  <!-- Dynasty Bow - Evasion -->
+  <item id="52">
+    <ingredient id="3470" count="18"/>
+    <production id="9823" count="1"/>
+  </item>
+  
+     <!-- Dynasty Dagger - Focus -->
+  <item id="53">
+    <ingredient id="3470" count="18"/>
+    <production id="9825" count="1"/>
+  </item>
+
+  <!-- Dynasty Dagger - Evasion  -->
+  <item id="54">
+    <ingredient id="3470" count="18"/>
+    <production id="9826" count="1"/>
+  </item>
+
+  <!-- Dynasty Dagger - Critical Damage -->
+  <item id="55">
+    <ingredient id="3470" count="18"/>
+    <production id="9827" count="1"/>
+  </item>
+  
+  <!-- Dynasty Spear - Anger -->
+  <item id="56">
+    <ingredient id="3470" count="18"/>
+    <production id="9829" count="1"/>
+  </item>
+
+  <!-- Dynasty Spear - Critical Stun  -->
+  <item id="57">
+    <ingredient id="3470" count="18"/>
+    <production id="9830" count="1"/>
+  </item>
+
+  <!-- Dynasty Spear - Light -->
+  <item id="58">
+    <ingredient id="3470" count="18"/>
+    <production id="9831" count="1"/>
+  </item>
+  
+    <!-- Dynasty Hammer - Anger -->
+  <item id="59">
+    <ingredient id="3470" count="18"/>
+    <production id="9832" count="1"/>
+  </item>
+
+  <!-- Dynasty Hammer - Health  -->
+  <item id="60">
+    <ingredient id="3470" count="18"/>
+    <production id="9834" count="1"/>
+  </item>
+
+  <!-- Dynasty Hammer - Risk Focus -->
+  <item id="61">
+    <ingredient id="3470" count="18"/>
+    <production id="9835" count="1"/>
+  </item>
+  
+     <!-- Dynasty Staff - Mana Up -->
+  <item id="62">
+    <ingredient id="3470" count="18"/>
+    <production id="9837" count="1"/>
+  </item>
+
+  <!-- Dynasty Staff - Conversion  -->
+  <item id="63">
+    <ingredient id="3470" count="18"/>
+    <production id="9838" count="1"/>
+  </item>
+
+  <!-- Dynasty Staff - Acumen -->
+  <item id="64">
+    <ingredient id="3470" count="18"/>
+    <production id="9839" count="1"/>
+  </item>
+  
+     <!-- Dynasty Fist - Risk Haste -->
+  <item id="65">
+    <ingredient id="3470" count="18"/>
+    <production id="9841" count="1"/>
+  </item>
+
+  <!-- Dynasty Fist - Risk Evasion  -->
+  <item id="66">
+    <ingredient id="3470" count="18"/>
+    <production id="9842" count="1"/>
+  </item>
+
+  <!-- Dynasty Fist - Haste -->
+  <item id="67">
+    <ingredient id="3470" count="18"/>
+    <production id="9843" count="1"/>
+  </item>
+
+ <!-- Dynasty Crusher - Anger -->
+  <item id="68">
+    <ingredient id="3470" count="18"/>
+    <production id="9847" count="1"/>
+  </item>
+
+  <!-- Dynasty Crusher - Health  -->
+  <item id="69">
+    <ingredient id="3470" count="18"/>
+    <production id="9848" count="1"/>
+  </item>
+
+  <!-- Dynasty Crusher - Risk Focus -->
+  <item id="70">
+    <ingredient id="3470" count="18"/>
+    <production id="9849" count="1"/>
+  </item>
+  
+   <!-- Dynasty Two Handed Staff -->
+  <item id="71">
+    <ingredient id="3470" count="18"/>
+    <production id="9851" count="1"/>
+  </item>
+
+  <!-- Dynasty Two Handed Staff  -->
+  <item id="72">
+    <ingredient id="3470" count="18"/>
+    <production id="9852" count="1"/>
+  </item>
+
+  <!-- Dynasty Two Handed Staff -->
+  <item id="73">
+    <ingredient id="3470" count="18"/>
+    <production id="9853" count="1"/>
+  </item>
+  
+    <!-- Dynasty Dual Blade -->
+  <item id="74">
+    <ingredient id="3470" count="18"/>
+    <production id="9854" count="1"/>
+  </item>
+
 
 </list>

@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- S-Grade Armors -->
+
+<list>
+
+  <!-- Dynasty Breast Plate -->
+  <item id="1">
+    <ingredient id="5575" count="1000000"/>
+    <ingredient id="3470" count="4"/>
+    <production id="9300" count="1"/>
+  </item>
+
+  <!-- Dynasty Breast Plate - Shield Master -->
+  <item id="2">
+    <ingredient id="5575" count="1500000"/>
+    <ingredient id="3470" count="5"/>
+    <production id="9301" count="1"/>
+  </item>
+
+  <!-- Dynasty Breast Plate - Weapon Master -->
+  <item id="3">
+    <ingredient id="5575" count="1500000"/>
+    <ingredient id="3470" count="5"/>
+    <production id="9302" count="1"/>
+  </item>
+
+  <!-- Dynasty Breast Plate - Force Master -->
+  <item id="4">
+    <ingredient id="5575" count="1500000"/>
+    <ingredient id="3470" count="5"/>
+    <production id="9303" count="1"/>
+  </item>
+
+  <!-- Dynasty Breast Plate - Bard -->
+  <item id="5">
+    <ingredient id="5575" count="1500000"/>
+    <ingredient id="3470" count="5"/>
+    <production id="9304" count="1"/>
+  </item>
+
+  <!-- Dynasty Leather Armor -->
+  <item id="6">
+    <ingredient id="5575" count="1000000"/>
+    <ingredient id="3470" count="4"/>
+    <production id="9305" count="1"/>
+  </item>
+
+  <!-- Dynasty Leather Armor - Dagger Master -->
+  <item id="7">
+    <ingredient id="5575" count="1500000"/>
+    <ingredient id="3470" count="5"/>
+    <production id="9306" count="1"/>
+  </item>
+
+  <!-- Dynasty Leather Armor - Bow Master -->
+  <item id="8">
+    <ingredient id="5575" count="1500000"/>
+    <ingredient id="3470" count="5"/>
+    <production id="9307" count="1"/>
+  </item>
+
+  <!-- Dynasty Leather Armor - Force Master -->
+  <item id="9">
+    <ingredient id="5575" count="1500000"/>
+    <ingredient id="3470" count="5"/>
+    <production id="9308" count="1"/>
+  </item>
+
+  <!-- Dynasty Leather Armor - Weapon Master -->
+  <item id="10">
+    <ingredient id="5575" count="1500000"/>
+    <ingredient id="3470" count="5"/>
+    <production id="9309" count="1"/>
+  </item>
+
+  <!-- Dynasty Leather Armor - Enchanter -->
+  <item id="11">
+    <ingredient id="5575" count="1500000"/>
+    <ingredient id="3470" count="5"/>
+    <production id="9310" count="1"/>
+  </item>
+
+  <!-- Dynasty Leather Armor - Summoner -->
+  <item id="12">
+    <ingredient id="5575" count="1500000"/>
+    <ingredient id="3470" count="5"/>
+    <production id="9311" count="1"/>
+  </item>
+
+  <!-- Dynasty Tunic -->
+  <item id="13">
+    <ingredient id="5575" count="1000000"/>
+    <ingredient id="3470" count="4"/>
+    <production id="9312" count="1"/>
+  </item>
+
+  <!-- Dynasty Tunic - Healer -->
+  <item id="14">
+    <ingredient id="5575" count="1500000"/>
+    <ingredient id="3470" count="5"/>
+    <production id="9313" count="1"/>
+  </item>
+
+  <!-- Dynasty Tunic - Enchanter -->
+  <item id="15">
+    <ingredient id="5575" count="1500000"/>
+    <ingredient id="3470" count="5"/>
+    <production id="9314" count="1"/>
+  </item>
+
+  <!-- Dynasty Tunic - Summoner -->
+  <item id="16">
+    <ingredient id="5575" count="1500000"/>
+    <ingredient id="3470" count="5"/>
+    <production id="9315" count="1"/>
+  </item>
+
+  <!-- Dynasty Tunic - Wizard -->
+  <item id="17">
+    <ingredient id="5575" count="1500000"/>
+    <ingredient id="3470" count="5"/>
+    <production id="9316" count="1"/>
+  </item>
+
+  <!-- Dynasty Gaiter -->
+  <item id="18">
+    <ingredient id="5575" count="500000"/>
+    <ingredient id="3470" count="4"/>
+    <production id="9317" count="1"/>
+  </item>
+
+  <!-- Dynasty Helmet -->
+  <item id="19">
+    <ingredient id="5575" count="500000"/>
+    <ingredient id="3470" count="2"/>
+    <production id="9318" count="1"/>
+  </item>
+
+  <!-- Dynasty Gauntlet - Heavy Armor -->
+  <item id="20">
+    <ingredient id="5575" count="500000"/>
+    <ingredient id="3470" count="2"/>
+    <production id="9319" count="1"/>
+  </item>
+
+  <!-- Dynasty Boots - Heavy Armor -->
+  <item id="21">
+    <ingredient id="5575" count="500000"/>
+    <ingredient id="3470" count="2"/>
+    <production id="9320" count="1"/>
+  </item>
+
+  <!-- Dynasty Leather Leggings -->
+  <item id="22">
+    <ingredient id="5575" count="500000"/>
+    <ingredient id="3470" count="4"/>
+    <production id="9321" count="1"/>
+  </item>
+
+  <!-- Dynasty Leather Helmet -->
+  <item id="23">
+    <ingredient id="5575" count="500000"/>
+    <ingredient id="3470" count="2"/>
+    <production id="9322" count="1"/>
+  </item>
+
+  <!-- Dynasty Leather Gloves - Light Armor -->
+  <item id="24">
+    <ingredient id="5575" count="500000"/>
+    <ingredient id="3470" count="2"/>
+    <production id="9323" count="1"/>
+  </item>
+
+  <!-- Dynasty Leather Boots - Light Armor -->
+  <item id="25">
+    <ingredient id="5575" count="500000"/>
+    <ingredient id="3470" count="2"/>
+    <production id="9324" count="1"/>
+  </item>
+
+  <!-- Dynasty Stockings -->
+  <item id="26">
+    <ingredient id="5575" count="500000"/>
+    <ingredient id="3470" count="4"/>
+    <production id="9325" count="1"/>
+  </item>
+
+  <!-- Dynasty Circlet -->
+  <item id="27">
+    <ingredient id="5575" count="500000"/>
+    <ingredient id="3470" count="2"/>
+    <production id="9326" count="1"/>
+  </item>
+
+  <!-- Dynasty Gloves - Robe -->
+  <item id="28">
+    <ingredient id="5575" count="500000"/>
+    <ingredient id="3470" count="2"/>
+    <production id="9327" count="1"/>
+  </item>
+
+  <!-- Dynasty Shoes - Robe -->
+  <item id="29">
+    <ingredient id="5575" count="500000"/>
+    <ingredient id="3470" count="2"/>
+    <production id="9328" count="1"/>
+  </item>
+
+</list>

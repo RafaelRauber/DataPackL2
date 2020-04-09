@@ -30,7 +30,7 @@
 
   <!-- Imperial Crusader Shield -->
   <item id="5">
-    <ingredient id="57" count="10000000"/>
+    <ingredient id="3470" count="1"/>
     <production id="6377" count="1"/>
   </item>
 

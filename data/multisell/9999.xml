@@ -1,0 +1,171 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2011 by MickaeL -->
+
+<list maintainEnchantment="true">
+
+  <!-- Bow of Scion -->
+  <item id="1">
+    <ingredient id="5575" count="10000"/>
+    <production id="9711" count="1"/>
+  </item>
+
+  <!-- Bow of Scion  Epic/Focus -->
+  <item id="2">
+    <ingredient id="5575" count="10000"/>
+    <production id="9713" count="1"/>
+  </item>
+
+  <!-- Bow of Scion Epic/Cheap Shot -->
+  <item id="3">
+    <ingredient id="5575" count="10000"/>
+    <production id="9712" count="1"/>
+  </item>
+
+  <!-- Bow of Scion  Epic/Crt. Slow -->
+  <item id="4">
+    <ingredient id="5575" count="10000"/>
+    <production id="9714" count="1"/>
+  </item>
+
+  <!-- Glint Eye -->
+  <item id="5">
+    <ingredient id="5575" count="10000"/>
+    <production id="9715" count="1"/>
+  </item>
+
+  <!-- Glint Eye  Epic/Focus -->
+  <item id="6">
+    <ingredient id="5575" count="10000"/>
+    <production id="9716" count="1"/>
+  </item>
+
+  <!-- Glint Eye  Epic/Haste -->
+  <item id="7">
+    <ingredient id="5575" count="10000"/>
+    <production id="9718" count="1"/>
+  </item>
+
+  <!-- Glint Eye  Epic/Might Mortal -->
+  <item id="8">
+    <ingredient id="5575" count="10000"/>
+    <production id="9717" count="1"/>
+  </item>
+
+  <!-- Dual Gods Blade -->
+  <item id="9">
+    <ingredient id="5575" count="10000"/>
+    <production id="9719" count="1"/>
+  </item>
+
+  <!-- Dual Gods Blade Focus -->
+  <item id="10">
+    <ingredient id="5575" count="10000"/>
+    <production id="9722" count="1"/>
+  </item>
+
+  <!-- Dual Gods Blade Haste -->
+  <item id="11">
+    <ingredient id="5575" count="10000"/>
+    <production id="9720" count="1"/>
+  </item>
+
+  <!-- Dual Gods Blade Health -->
+  <item id="12">
+    <ingredient id="5575" count="10000"/>
+    <production id="9721" count="1"/>
+  </item>
+
+  <!-- Sword of Templar -->
+  <item id="13">
+    <ingredient id="5575" count="10000"/>
+    <production id="9723" count="1"/>
+  </item>
+
+  <!-- Sword of Templar  Epic/Focus -->
+  <item id="14">
+    <ingredient id="5575" count="10000"/>
+    <production id="9724" count="1"/>
+  </item>
+
+  <!-- Sword of Templar  Epic/Haste -->
+  <item id="15">
+    <ingredient id="5575" count="10000"/>
+    <production id="9725" count="1"/>
+  </item>
+
+  <!-- Sword of Templar  Epic/Crt. Stun -->
+  <item id="16">
+    <ingredient id="5575" count="10000"/>
+    <production id="9726" count="1"/>
+  </item>
+
+  <!-- Dual Dragon Slayer -->
+  <item id="17">
+    <ingredient id="5575" count="10000"/>
+    <production id="9727" count="1"/>
+  </item>
+
+  <!-- Ares fists -->
+  <item id="18">
+    <ingredient id="5575" count="10000"/>
+    <production id="9728" count="1"/>
+  </item>
+
+  <!-- Dusk Sword Unique -->
+  <item id="19">
+    <ingredient id="5575" count="10000"/>
+    <production id="9729" count="1"/>
+  </item>
+
+  <!-- Dusk Sword Unique Acumen -->
+  <item id="20">
+    <ingredient id="5575" count="10000"/>
+    <production id="9730" count="1"/>
+  </item>
+
+  <!-- Dusk Sword Unique Empower -->
+  <item id="21">
+    <ingredient id="5575" count="10000"/>
+    <production id="9731" count="1"/>
+  </item>
+
+  <!-- Dusk Sword Unique Mana Up -->
+  <item id="22">
+    <ingredient id="5575" count="10000"/>
+    <production id="9732" count="1"/>
+  </item>
+
+  <!-- Dusk Staff Unique -->
+  <item id="23">
+    <ingredient id="5575" count="10000"/>
+    <production id="9733" count="1"/>
+  </item>
+
+  <!-- Dusk Staff Unique Acumen -->
+  <item id="24">
+    <ingredient id="5575" count="10000"/>
+    <production id="9734" count="1"/>
+  </item>
+
+  <!-- Dusk Staff Unique Empower -->
+  <item id="25">
+    <ingredient id="5575" count="10000"/>
+    <production id="9735" count="1"/>
+  </item>
+
+  <!-- Dusk Staff Unique Mana Up -->
+  <item id="26">
+    <ingredient id="5575" count="10000"/>
+    <production id="9736" count="1"/>
+  </item>
+
+  <!-- Dusk Shield Unique -->
+  <item id="27">
+    <ingredient id="5575" count="10000"/>
+    <production id="9737" count="1"/>
+  </item>
+
+
+</list>

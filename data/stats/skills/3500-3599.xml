@@ -1138,10 +1138,10 @@
         <for>
             <mul order="0x30" stat="poisonVuln" val="0.2"/>
             <add order="0x40" stat="accCombat" val="2"/>
-            <mul order="0x30" stat="cAtk" val="1.15"/>
+            <mul order="0x30" stat="cAtk" val="1.55"/>
             <mul order="0x30" stat="rootVuln" val="0.4"/>
-            <mul order="0x30" stat="pAtkSpd" val="1.04"/>
-            <mul order="0x30" stat="mAtkSpd" val="1.04"/>
+            <mul order="0x30" stat="pAtkSpd" val="1.54"/>
+            <mul order="0x30" stat="mAtkSpd" val="1.54"/>
         </for>
     </skill>
     <!-- Status: Checked and fixed like L2OFF; Pack: L2jFrozen; author: OnePaTuBHuK -->
