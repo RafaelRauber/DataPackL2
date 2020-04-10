@@ -1,389 +1,390 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- XML Stats Criadas Por: RedHoT -->
 <list>
-<item id='9711' name="Bow Of Scion">
-  <for>
-   <set val='1200' order='0x08' stat='pAtk'/>
-   <set val='302' order='0x08' stat='mAtk'/>
-   <set val='15' order='0x08' stat='rCrit'/>
-   <add val='-3' order='0x10' stat='accCombat'/>
-   <set val='293' order='0x08' stat='pAtkSpd'/>
-   <enchant val='0' order='0x0C' stat='pAtk'/>
-   <enchant val='0' order='0x0C' stat='mAtk'/>
-</for>
-</item>
-<item id='9712' name="Bow Of Scion Epic/Cheap Shot">
-  <for>
-   <set val='1200' order='0x08' stat='pAtk'/>
-   <set val='302' order='0x08' stat='mAtk'/>
-   <set val='15' order='0x08' stat='rCrit'/>
-   <add val='-3' order='0x10' stat='accCombat'/>
-   <set val='293' order='0x08' stat='pAtkSpd'/>
-   <enchant val='0' order='0x0C' stat='pAtk'/>
-   <enchant val='0' order='0x0C' stat='mAtk'/>
-    <!-- SA: Cheap Shot -->
-    <set val='1' order='0x08' stat='MpConsume'> 
-       <and>
-          <game skill="false" chance="26"/> 
-       </and> 
-    </set>
-    <!-- Enhances damage to target during PvP -->
-    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
-    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
-  </for>
-</item>
-<item id='9713' name="Bow Of Scion Epic/Focus">
-  <for>
-   <set val='1200' order='0x08' stat='pAtk'/>
-   <set val='302' order='0x08' stat='mAtk'/>
-   <set val='15' order='0x08' stat='rCrit'/>
-   <add val='-3' order='0x10' stat='accCombat'/>
-   <set val='293' order='0x08' stat='pAtkSpd'/>
-   <enchant val='0' order='0x0C' stat='pAtk'/>
-   <enchant val='0' order='0x0C' stat='mAtk'/>
-    <!-- SA: Focus -->
-    <add val='96' order='0x40' stat='rCrit'/>
-    <!-- Enhances damage to target during PvP -->
-    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
-    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
-  </for>
-</item>
-<item id='9714' name="Bow Of Scion Epic/Crt. Slow">
-  <for>
-   <set val='1200' order='0x08' stat='pAtk'/>
-   <set val='302' order='0x08' stat='mAtk'/>
-   <set val='15' order='0x08' stat='rCrit'/>
-   <add val='-3' order='0x10' stat='accCombat'/>
-   <set val='293' order='0x08' stat='pAtkSpd'/>
-   <enchant val='0' order='0x0C' stat='pAtk'/>
-   <enchant val='0' order='0x0C' stat='mAtk'/>
-    <!-- SA: Critical Slow -->
-    <skill onCrit='1' id='3594' lvl='1' chance='7'/> 
-    <!-- Enhances damage to target during PvP -->
-    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
-    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
-  </for>
-</item>
-<item id='9715' name="Glint Eye">
-  <for>
-   <set val='700' order='0x08' stat='pAtk'/>
-   <set val='311' order='0x08' stat='mAtk'/>
-   <set val='15' order='0x08' stat='rCrit'/>
-   <add val='-3' order='0x10' stat='accCombat'/>
-   <set val='433' order='0x08' stat='pAtkSpd'/>
-   <enchant val='0' order='0x0C' stat='pAtk'/>
-   <enchant val='0' order='0x0C' stat='mAtk'/>
-</for>
-</item>
-<item id='9716' name="Glint Eye Epic/Focus">
-  <for>
-   <set val='700' order='0x08' stat='pAtk'/>
-   <set val='311' order='0x08' stat='mAtk'/>
-   <set val='15' order='0x08' stat='rCrit'/>
-   <add val='-3' order='0x10' stat='accCombat'/>
-   <set val='433' order='0x08' stat='pAtkSpd'/>
-   <enchant val='0' order='0x0C' stat='pAtk'/>
-   <enchant val='0' order='0x0C' stat='mAtk'/>
-    <!-- SA: Focus -->
-    <add val='88' order='0x40' stat='rCrit'/>
-    <!-- Enhances damage to target during PvP -->
-    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
-    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
-  </for>
-</item>
-<item id='9717' name="Glint Eye Epic/Might Mortal">
-  <for>
-   <set val='700' order='0x08' stat='pAtk'/>
-   <set val='311' order='0x08' stat='mAtk'/>
-   <set val='15' order='0x08' stat='rCrit'/>
-   <add val='-3' order='0x10' stat='accCombat'/>
-   <set val='433' order='0x08' stat='pAtkSpd'/>
-   <enchant val='0' order='0x0C' stat='pAtk'/>
-   <enchant val='0' order='0x0C' stat='mAtk'/>
-  </for>
-</item>
-<item id='9718' name="Glint Eye Epic/Haste">
-  <for>
-   <set val='700' order='0x08' stat='pAtk'/>
-   <set val='311' order='0x08' stat='mAtk'/>
-   <set val='15' order='0x08' stat='rCrit'/>
-   <add val='-3' order='0x10' stat='accCombat'/>
-   <set val='433' order='0x08' stat='pAtkSpd'/>
-   <enchant val='0' order='0x0C' stat='pAtk'/>
-   <enchant val='0' order='0x0C' stat='mAtk'/>
-    <!-- SA: Haste -->
-    <mul val='1.07' order='0x30' stat='pAtkSpd'/>
-    <!-- Enhances damage to target during PvP -->
-    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
-    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
-  </for>
-</item>
-<item id='9719' name="Dual God's Blade">
-  <for>
-    <set val='850' order='0x08' stat='pAtk'/>
-    <set val='203' order='0x08' stat='mAtk'/>
-    <set val='15' order='0x08' stat='rCrit'/>
-    <add val='3' order='0x10' stat='accCombat'/>
-    <set val='325' order='0x08' stat='pAtkSpd'/>
-    <enchant val='0' order='0x0C' stat='pAtk'/>
-    <enchant val='0' order='0x0C' stat='mAtk'/>
-  </for>
-</item>
-<item id='9720' name="Dual God's Blade Haste">
-  <for>
-    <set val='850' order='0x08' stat='pAtk'/>
-    <set val='203' order='0x08' stat='mAtk'/>
-    <set val='15' order='0x08' stat='rCrit'/>
-    <add val='3' order='0x10' stat='accCombat'/>
-    <set val='325' order='0x08' stat='pAtkSpd'/>
-    <enchant val='0' order='0x0C' stat='pAtk'/>
-    <enchant val='0' order='0x0C' stat='mAtk'/>
-    <!-- SA: Haste -->
-    <mul val='1.07' order='0x30' stat='pAtkSpd'/>
-    <!-- Enhances damage to target during PvP -->
-    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
-    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
-  </for>
-</item>
-<item id='9721' name="Dual God's Blade Health">
-  <for>
-    <set val='850' order='0x08' stat='pAtk'/>
-    <set val='203' order='0x08' stat='mAtk'/>
-    <set val='15' order='0x08' stat='rCrit'/>
-    <add val='3' order='0x10' stat='accCombat'/>
-    <set val='325' order='0x08' stat='pAtkSpd'/>
-    <enchant val='0' order='0x0C' stat='pAtk'/>
-    <enchant val='0' order='0x0C' stat='mAtk'/>
-    <!-- SA: Health -->
-    <mul val='1.30' order='0x30' stat='maxHp'/>
-    <!-- Enhances damage to target during PvP -->
-    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
-    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
-  </for>
-</item>
-<item id='9722' name="Dual God's Blade Focus">
-  <for>
-    <set val='850' order='0x08' stat='pAtk'/>
-    <set val='203' order='0x08' stat='mAtk'/>
-    <set val='15' order='0x08' stat='rCrit'/>
-    <add val='3' order='0x10' stat='accCombat'/>
-    <set val='325' order='0x08' stat='pAtkSpd'/>
-    <enchant val='0' order='0x0C' stat='pAtk'/>
-    <enchant val='0' order='0x0C' stat='mAtk'/>
-    <!-- SA: Focus -->
-    <add val='98' order='0x40' stat='rCrit'/>
-    <!-- Enhances damage to target during PvP -->
-    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
-    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
-  </for>
-</item>
-<item id='9723' name="Sword Of Templar Epic">
-  <for>
-   <set val='800' order='0x08' stat='pAtk'/>
-   <set val='311' order='0x08' stat='mAtk'/>
-   <set val='15' order='0x08' stat='rCrit'/>
-   <add val='0' order='0x10' stat='accCombat'/>
-   <set val='379' order='0x08' stat='pAtkSpd'/>
-   <enchant val='0' order='0x0C' stat='pAtk'/>
-   <enchant val='0' order='0x0C' stat='mAtk'/>
-</for>
-</item>
-<item id='9724' name="Sword Of Templar Epic/Focus">
-  <for>
-   <set val='800' order='0x08' stat='pAtk'/>
-   <set val='311' order='0x08' stat='mAtk'/>
-   <set val='15' order='0x08' stat='rCrit'/>
-   <add val='0' order='0x10' stat='accCombat'/>
-   <set val='379' order='0x08' stat='pAtkSpd'/>
-   <enchant val='0' order='0x0C' stat='pAtk'/>
-   <enchant val='0' order='0x0C' stat='mAtk'/>
-    <!-- SA: Focus -->
-    <add val='88' order='0x40' stat='rCrit'/>
-    <!-- Enhances damage to target during PvP -->
-    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
-    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
-  </for>
-</item>
-<item id='9725' name="Sword Of Templar Epic/Haste">
-  <for>
-   <set val='800' order='0x08' stat='pAtk'/>
-   <set val='311' order='0x08' stat='mAtk'/>
-   <set val='15' order='0x08' stat='rCrit'/>
-   <add val='0' order='0x10' stat='accCombat'/>
-   <set val='379' order='0x08' stat='pAtkSpd'/>
-   <enchant val='0' order='0x0C' stat='pAtk'/>
-   <enchant val='0' order='0x0C' stat='mAtk'/>
-    <!-- SA: Haste -->
-    <mul val='1.07' order='0x30' stat='pAtkSpd'/>
-    <!-- Enhances damage to target during PvP -->
-    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
-    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
-  </for>
-</item>
-<item id='9726' name="Sword Of Templar Epic/Crt. Stun">
-  <for>
-   <set val='800' order='0x08' stat='pAtk'/>
-   <set val='311' order='0x08' stat='mAtk'/>
-   <set val='15' order='0x08' stat='rCrit'/>
-   <add val='0' order='0x10' stat='accCombat'/>
-   <set val='379' order='0x08' stat='pAtkSpd'/>
-   <enchant val='0' order='0x0C' stat='pAtk'/>
-   <enchant val='0' order='0x0C' stat='mAtk'/>
-    <!-- SA: Critical Stun -->
-    <skill onCrit='1' id='3070' lvl='1' chance='16'/>
-    <!-- Enhances damage to target during PvP -->
-    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
-    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
-  </for>
-</item>
-<item id='9727' name="Dual Dragon Slayer">
-  <for>
-    <set val='850' order='0x08' stat='pAtk'/>
-    <set val='203' order='0x08' stat='mAtk'/>
-    <set val='15' order='0x08' stat='rCrit'/>
-    <add val='3' order='0x10' stat='accCombat'/>
-    <set val='325' order='0x08' stat='pAtkSpd'/>
-    <enchant val='0' order='0x0C' stat='pAtk'/>
-    <enchant val='0' order='0x0C' stat='mAtk'/>
-    <mul val='1.15' order='0x30' stat='maxHp'>
-		<and>
-			<using slotitem="9727;14;4"/>
-		</and>
-	</mul>
-	<mul val='1.2' order='0x30' stat='maxMp'>
-		<and>
-			<using slotitem="9727;14;4"/>
-		</and>
-	</mul>
-    <mul val='1.3' order='0x30' stat='maxCp'>
-		<and>
-			<using slotitem="9727;14;4"/>
-		</and>
-	</mul>
-	<!-- Enhances damage to target during PvP -->
-    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
-    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
-  </for>
-</item>
-<item id="9728" name="Ares Fists">
-  <for>
-    <set val='890' order='0x08' stat='pAtk'/>
-    <set val='140' order='0x08' stat='mAtk'/>
-    <set val='300' order='0x08' stat='rCrit'/>
-    <add val='50' order='0x10' stat='accCombat'/>
-    <set val='325' order='0x08' stat='pAtkSpd'/>
-    <enchant val='0' order='0x0C' stat='pAtk'/>
-    <enchant val='0' order='0x0C' stat='mAtk'/>
-    <!-- Enhances damage to target during PvP -->
-    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
-    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
-    <!-- SA: Haste -->
-    <add val="1.07" order="0x30" stat="pAtkSpd"/>
-  </for>
-<item id='9729' name="Dusk Sword Unique">
-  <for>
-   <set val='399' order='0x08' stat='pAtk'/>
-   <set val='600' order='0x08' stat='mAtk'/>
-   <set val='15' order='0x08' stat='rCrit'/>
-   <add val='0' order='0x10' stat='accCombat'/>
-   <set val='379' order='0x08' stat='pAtkSpd'/>
-   <enchant val='0' order='0x0C' stat='pAtk'/>
-   <enchant val='0' order='0x0C' stat='mAtk'/>
-  </for>
-</item>
-<item id='9730' name="Dusk Sword Unique Acumen">
-  <for>
-   <set val='399' order='0x08' stat='pAtk'/>
-   <set val='600' order='0x08' stat='mAtk'/>
-   <set val='15' order='0x08' stat='rCrit'/>
-   <add val='0' order='0x10' stat='accCombat'/>
-   <set val='379' order='0x08' stat='pAtkSpd'/>
-   <enchant val='0' order='0x0C' stat='pAtk'/>
-   <enchant val='0' order='0x0C' stat='mAtk'/>
-  </for>
-</item>
-<item id='9731' name="Dusk Sword Unique Empower">
-  <for>
-   <set val='399' order='0x08' stat='pAtk'/>
-   <set val='600' order='0x08' stat='mAtk'/>
-   <set val='15' order='0x08' stat='rCrit'/>
-   <add val='0' order='0x10' stat='accCombat'/>
-   <set val='379' order='0x08' stat='pAtkSpd'/>
-   <enchant val='0' order='0x0C' stat='pAtk'/>
-   <enchant val='0' order='0x0C' stat='mAtk'/>
-    <!-- SA: Empower -->
-    <add val='60' order='0x40' stat='mAtk'/>
-    <!-- Enhances damage to target during PvP -->
-    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
-    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
-  </for>
-</item>
-<item id='9732' name="Dusk Sword Unique Mana Up">
-  <for>
-   <set val='399' order='0x08' stat='pAtk'/>
-   <set val='600' order='0x08' stat='mAtk'/>
-   <set val='15' order='0x08' stat='rCrit'/>
-   <add val='0' order='0x10' stat='accCombat'/>
-   <set val='379' order='0x08' stat='pAtkSpd'/>
-   <enchant val='0' order='0x0C' stat='pAtk'/>
-   <enchant val='0' order='0x0C' stat='mAtk'/>
-  </for>
-</item>
-<item id='9733' name="Dusk Staff Unique">
-  <for>
-   <set val='500' order='0x08' stat='pAtk'/>
-   <set val='600' order='0x08' stat='mAtk'/>
-   <set val='15' order='0x08' stat='rCrit'/>
-   <add val='0' order='0x10' stat='accCombat'/>
-   <set val='379' order='0x08' stat='pAtkSpd'/>
-   <enchant val='0' order='0x0C' stat='pAtk'/>
-   <enchant val='0' order='0x0C' stat='mAtk'/>
-  </for>
-</item>
-<item id='9734' name="Dusk Staff Unique Acumen">
-  <for>
-   <set val='500' order='0x08' stat='pAtk'/>
-   <set val='600' order='0x08' stat='mAtk'/>
-   <set val='15' order='0x08' stat='rCrit'/>
-   <add val='0' order='0x10' stat='accCombat'/>
-   <set val='379' order='0x08' stat='pAtkSpd'/>
-   <enchant val='0' order='0x0C' stat='pAtk'/>
-   <enchant val='0' order='0x0C' stat='mAtk'/>
-  </for>
-</item>
-<item id='9735' name="Dusk Staff Unique Empower">
-  <for>
-   <set val='500' order='0x08' stat='pAtk'/>
-   <set val='600' order='0x08' stat='mAtk'/>
-   <set val='15' order='0x08' stat='rCrit'/>
-   <add val='0' order='0x10' stat='accCombat'/>
-   <set val='379' order='0x08' stat='pAtkSpd'/>
-   <enchant val='0' order='0x0C' stat='pAtk'/>
-   <enchant val='0' order='0x0C' stat='mAtk'/>
-    <!-- SA: Empower -->
-    <add val='60' order='0x40' stat='mAtk'/>
-    <!-- Enhances damage to target during PvP -->
-    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
-    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
-  </for>
-</item>
-<item id='9736' name="Dusk Staff Unique Mana Up">
-  <for>
-   <set val='500' order='0x08' stat='pAtk'/>
-   <set val='600' order='0x08' stat='mAtk'/>
-   <set val='15' order='0x08' stat='rCrit'/>
-   <add val='0' order='0x10' stat='accCombat'/>
-   <set val='379' order='0x08' stat='pAtkSpd'/>
-   <enchant val='0' order='0x0C' stat='pAtk'/>
-   <enchant val='0' order='0x0C' stat='mAtk'/>
-  </for>
-</item>
-<item id='9737' name="Dusk Shield Unique">
-  <for>
-    <sub val='8' order='0x10' stat='rEvas'/>
-    <set val='142' order='0x08' stat='sDef'/>
-    <set val='20' order='0x08' stat='rShld'/>
-    <enchant val='0' order='0x0C' stat='sDef'/>
-  </for>
-</item>
+    <item id='9711' name="Bow Of Scion">
+        <for>
+            <set val='693' order='0x08' stat='pAtk'/>
+            <set val='160' order='0x08' stat='mAtk'/>
+            <set val='15' order='0x08' stat='rCrit'/>
+            <add val='-3' order='0x10' stat='accCombat'/>
+            <set val='293' order='0x08' stat='pAtkSpd'/>
+            <enchant val='0' order='0x0C' stat='pAtk'/>
+            <enchant val='0' order='0x0C' stat='mAtk'/>
+        </for>
+    </item>
+    <item id='9712' name="Bow Of Scion Epic/Cheap Shot">
+        <for>
+            <set val='693' order='0x08' stat='pAtk'/>
+            <set val='160' order='0x08' stat='mAtk'/>
+            <set val='15' order='0x08' stat='rCrit'/>
+            <add val='-3' order='0x10' stat='accCombat'/>
+            <set val='293' order='0x08' stat='pAtkSpd'/>
+            <enchant val='0' order='0x0C' stat='pAtk'/>
+            <enchant val='0' order='0x0C' stat='mAtk'/>
+            <!-- SA: Cheap Shot -->
+            <set val='1' order='0x08' stat='MpConsume'>
+                <and>
+                    <game skill="false" chance="26"/>
+                </and>
+            </set>
+            <!-- Enhances damage to target during PvP -->
+            <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+            <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+        </for>
+    </item>
+    <item id='9713' name="Bow Of Scion Epic/Focus">
+        <for>
+            <set val='693' order='0x08' stat='pAtk'/>
+            <set val='160' order='0x08' stat='mAtk'/>
+            <set val='15' order='0x08' stat='rCrit'/>
+            <add val='-3' order='0x10' stat='accCombat'/>
+            <set val='293' order='0x08' stat='pAtkSpd'/>
+            <enchant val='0' order='0x0C' stat='pAtk'/>
+            <enchant val='0' order='0x0C' stat='mAtk'/>
+            <!-- SA: Focus -->
+            <add val='96' order='0x40' stat='rCrit'/>
+            <!-- Enhances damage to target during PvP -->
+            <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+            <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+        </for>
+    </item>
+    <item id='9714' name="Bow Of Scion Epic/Crt. Slow">
+        <for>
+            <set val='693' order='0x08' stat='pAtk'/>
+            <set val='160' order='0x08' stat='mAtk'/>
+            <set val='15' order='0x08' stat='rCrit'/>
+            <add val='-3' order='0x10' stat='accCombat'/>
+            <set val='293' order='0x08' stat='pAtkSpd'/>
+            <enchant val='0' order='0x0C' stat='pAtk'/>
+            <enchant val='0' order='0x0C' stat='mAtk'/>
+            <!-- SA: Critical Slow -->
+            <skill onCrit='1' id='3594' lvl='1' chance='7'/>
+            <!-- Enhances damage to target during PvP -->
+            <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+            <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+        </for>
+    </item>
+    <item id='9715' name="Glint Eye">
+        <for>
+            <set val='312' order='0x08' stat='pAtk'/>
+            <set val='162' order='0x08' stat='mAtk'/>
+            <set val='15' order='0x08' stat='rCrit'/>
+            <add val='-3' order='0x10' stat='accCombat'/>
+            <set val='433' order='0x08' stat='pAtkSpd'/>
+            <enchant val='0' order='0x0C' stat='pAtk'/>
+            <enchant val='0' order='0x0C' stat='mAtk'/>
+        </for>
+    </item>
+    <item id='9716' name="Glint Eye Epic/Focus">
+        <for>
+            <set val='312' order='0x08' stat='pAtk'/>
+            <set val='162' order='0x08' stat='mAtk'/>
+            <set val='15' order='0x08' stat='rCrit'/>
+            <add val='-3' order='0x10' stat='accCombat'/>
+            <set val='433' order='0x08' stat='pAtkSpd'/>
+            <enchant val='0' order='0x0C' stat='pAtk'/>
+            <enchant val='0' order='0x0C' stat='mAtk'/>
+            <!-- SA: Focus -->
+            <add val='88' order='0x40' stat='rCrit'/>
+            <!-- Enhances damage to target during PvP -->
+            <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+            <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+        </for>
+    </item>
+    <item id='9717' name="Glint Eye Epic/Might Mortal">
+        <for>
+            <set val='312' order='0x08' stat='pAtk'/>
+            <set val='162' order='0x08' stat='mAtk'/>
+            <set val='15' order='0x08' stat='rCrit'/>
+            <add val='-3' order='0x10' stat='accCombat'/>
+            <set val='433' order='0x08' stat='pAtkSpd'/>
+            <enchant val='0' order='0x0C' stat='pAtk'/>
+            <enchant val='0' order='0x0C' stat='mAtk'/>
+        </for>
+    </item>
+    <item id='9718' name="Glint Eye Epic/Haste">
+        <for>
+            <set val='312' order='0x08' stat='pAtk'/>
+            <set val='162' order='0x08' stat='mAtk'/>
+            <set val='15' order='0x08' stat='rCrit'/>
+            <add val='-3' order='0x10' stat='accCombat'/>
+            <set val='433' order='0x08' stat='pAtkSpd'/>
+            <enchant val='0' order='0x0C' stat='pAtk'/>
+            <enchant val='0' order='0x0C' stat='mAtk'/>
+            <!-- SA: Haste -->
+            <mul val='1.07' order='0x30' stat='pAtkSpd'/>
+            <!-- Enhances damage to target during PvP -->
+            <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+            <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+        </for>
+    </item>
+    <item id='9719' name="Dual God's Blade">
+        <for>
+            <set val='594' order='0x08' stat='pAtk'/>
+            <set val='203' order='0x08' stat='mAtk'/>
+            <set val='15' order='0x08' stat='rCrit'/>
+            <add val='3' order='0x10' stat='accCombat'/>
+            <set val='325' order='0x08' stat='pAtkSpd'/>
+            <enchant val='0' order='0x0C' stat='pAtk'/>
+            <enchant val='0' order='0x0C' stat='mAtk'/>
+        </for>
+    </item>
+    <item id='9720' name="Dual God's Blade Haste">
+        <for>
+            <set val='594' order='0x08' stat='pAtk'/>
+            <set val='203' order='0x08' stat='mAtk'/>
+            <set val='15' order='0x08' stat='rCrit'/>
+            <add val='3' order='0x10' stat='accCombat'/>
+            <set val='325' order='0x08' stat='pAtkSpd'/>
+            <enchant val='0' order='0x0C' stat='pAtk'/>
+            <enchant val='0' order='0x0C' stat='mAtk'/>
+            <!-- SA: Haste -->
+            <mul val='1.07' order='0x30' stat='pAtkSpd'/>
+            <!-- Enhances damage to target during PvP -->
+            <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+            <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+        </for>
+    </item>
+    <item id='9721' name="Dual God's Blade Health">
+        <for>
+            <set val='594' order='0x08' stat='pAtk'/>
+            <set val='203' order='0x08' stat='mAtk'/>
+            <set val='15' order='0x08' stat='rCrit'/>
+            <add val='3' order='0x10' stat='accCombat'/>
+            <set val='325' order='0x08' stat='pAtkSpd'/>
+            <enchant val='0' order='0x0C' stat='pAtk'/>
+            <enchant val='0' order='0x0C' stat='mAtk'/>
+            <!-- SA: Health -->
+            <mul val='1.30' order='0x30' stat='maxHp'/>
+            <!-- Enhances damage to target during PvP -->
+            <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+            <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+        </for>
+    </item>
+    <item id='9722' name="Dual God's Blade Focus">
+        <for>
+            <set val='594' order='0x08' stat='pAtk'/>
+            <set val='203' order='0x08' stat='mAtk'/>
+            <set val='15' order='0x08' stat='rCrit'/>
+            <add val='3' order='0x10' stat='accCombat'/>
+            <set val='325' order='0x08' stat='pAtkSpd'/>
+            <enchant val='0' order='0x0C' stat='pAtk'/>
+            <enchant val='0' order='0x0C' stat='mAtk'/>
+            <!-- SA: Focus -->
+            <add val='98' order='0x40' stat='rCrit'/>
+            <!-- Enhances damage to target during PvP -->
+            <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+            <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+        </for>
+    </item>
+    <item id='9723' name="Sword Of Templar Epic">
+        <for>
+            <set val='331' order='0x08' stat='pAtk'/>
+            <set val='157' order='0x08' stat='mAtk'/>
+            <set val='15' order='0x08' stat='rCrit'/>
+            <add val='0' order='0x10' stat='accCombat'/>
+            <set val='379' order='0x08' stat='pAtkSpd'/>
+            <enchant val='0' order='0x0C' stat='pAtk'/>
+            <enchant val='0' order='0x0C' stat='mAtk'/>
+        </for>
+    </item>
+    <item id='9724' name="Sword Of Templar Epic/Focus">
+        <for>
+            <set val='331' order='0x08' stat='pAtk'/>
+            <set val='157' order='0x08' stat='mAtk'/>
+            <set val='15' order='0x08' stat='rCrit'/>
+            <add val='0' order='0x10' stat='accCombat'/>
+            <set val='379' order='0x08' stat='pAtkSpd'/>
+            <enchant val='0' order='0x0C' stat='pAtk'/>
+            <enchant val='0' order='0x0C' stat='mAtk'/>
+            <!-- SA: Focus -->
+            <add val='88' order='0x40' stat='rCrit'/>
+            <!-- Enhances damage to target during PvP -->
+            <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+            <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+        </for>
+    </item>
+    <item id='9725' name="Sword Of Templar Epic/Haste">
+        <for>
+            <set val='331' order='0x08' stat='pAtk'/>
+            <set val='157' order='0x08' stat='mAtk'/>
+            <set val='15' order='0x08' stat='rCrit'/>
+            <add val='0' order='0x10' stat='accCombat'/>
+            <set val='379' order='0x08' stat='pAtkSpd'/>
+            <enchant val='0' order='0x0C' stat='pAtk'/>
+            <enchant val='0' order='0x0C' stat='mAtk'/>
+            <!-- SA: Haste -->
+            <mul val='1.07' order='0x30' stat='pAtkSpd'/>
+            <!-- Enhances damage to target during PvP -->
+            <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+            <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+        </for>
+    </item>
+    <item id='9726' name="Sword Of Templar Epic/Crt. Stun">
+        <for>
+            <set val='331' order='0x08' stat='pAtk'/>
+            <set val='157' order='0x08' stat='mAtk'/>
+            <set val='15' order='0x08' stat='rCrit'/>
+            <add val='0' order='0x10' stat='accCombat'/>
+            <set val='379' order='0x08' stat='pAtkSpd'/>
+            <enchant val='0' order='0x0C' stat='pAtk'/>
+            <enchant val='0' order='0x0C' stat='mAtk'/>
+            <!-- SA: Critical Stun -->
+            <skill onCrit='1' id='3070' lvl='1' chance='16'/>
+            <!-- Enhances damage to target during PvP -->
+            <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+            <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+        </for>
+    </item>
+    <item id='9727' name="Dual Dragon Slayer">
+        <for>
+            <set val='594' order='0x08' stat='pAtk'/>
+            <set val='203' order='0x08' stat='mAtk'/>
+            <set val='15' order='0x08' stat='rCrit'/>
+            <add val='3' order='0x10' stat='accCombat'/>
+            <set val='325' order='0x08' stat='pAtkSpd'/>
+            <enchant val='0' order='0x0C' stat='pAtk'/>
+            <enchant val='0' order='0x0C' stat='mAtk'/>
+            <mul val='1.15' order='0x30' stat='maxHp'>
+                <and>
+                    <using slotitem="9727;14;4"/>
+                </and>
+            </mul>
+            <mul val='1.2' order='0x30' stat='maxMp'>
+                <and>
+                    <using slotitem="9727;14;4"/>
+                </and>
+            </mul>
+            <mul val='1.3' order='0x30' stat='maxCp'>
+                <and>
+                    <using slotitem="9727;14;4"/>
+                </and>
+            </mul>
+            <!-- Enhances damage to target during PvP -->
+            <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+            <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+        </for>
+    </item>
+    <item id="9728" name="Ares Fists">
+        <for>
+            <set val='394' order='0x08' stat='pAtk'/>
+            <set val='152' order='0x08' stat='mAtk'/>
+            <set val='300' order='0x08' stat='rCrit'/>
+            <add val='50' order='0x10' stat='accCombat'/>
+            <set val='325' order='0x08' stat='pAtkSpd'/>
+            <enchant val='0' order='0x0C' stat='pAtk'/>
+            <enchant val='0' order='0x0C' stat='mAtk'/>
+            <!-- Enhances damage to target during PvP -->
+            <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+            <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+            <!-- SA: Haste -->
+            <add val="1.07" order="0x30" stat="pAtkSpd"/>
+        </for>
+    </item>
+    <item id='9729' name="Dusk Sword Unique">
+        <for>
+            <set val='250' order='0x08' stat='pAtk'/>
+            <set val='270' order='0x08' stat='mAtk'/>
+            <set val='15' order='0x08' stat='rCrit'/>
+            <add val='0' order='0x10' stat='accCombat'/>
+            <set val='379' order='0x08' stat='pAtkSpd'/>
+            <enchant val='0' order='0x0C' stat='pAtk'/>
+            <enchant val='0' order='0x0C' stat='mAtk'/>
+        </for>
+    </item>
+    <item id='9730' name="Dusk Sword Unique Acumen">
+        <for>
+            <set val='250' order='0x08' stat='pAtk'/>
+            <set val='270' order='0x08' stat='mAtk'/>
+            <set val='15' order='0x08' stat='rCrit'/>
+            <add val='0' order='0x10' stat='accCombat'/>
+            <set val='379' order='0x08' stat='pAtkSpd'/>
+            <enchant val='0' order='0x0C' stat='pAtk'/>
+            <enchant val='0' order='0x0C' stat='mAtk'/>
+        </for>
+    </item>
+    <item id='9731' name="Dusk Sword Unique Empower">
+        <for>
+            <set val='250' order='0x08' stat='pAtk'/>
+            <set val='270' order='0x08' stat='mAtk'/>
+            <set val='15' order='0x08' stat='rCrit'/>
+            <add val='0' order='0x10' stat='accCombat'/>
+            <set val='379' order='0x08' stat='pAtkSpd'/>
+            <enchant val='0' order='0x0C' stat='pAtk'/>
+            <enchant val='0' order='0x0C' stat='mAtk'/>
+            <!-- SA: Empower -->
+            <add val='60' order='0x40' stat='mAtk'/>
+            <!-- Enhances damage to target during PvP -->
+            <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+            <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+        </for>
+    </item>
+    <item id='9732' name="Dusk Sword Unique Mana Up">
+        <for>
+            <set val='250' order='0x08' stat='pAtk'/>
+            <set val='270' order='0x08' stat='mAtk'/>
+            <set val='15' order='0x08' stat='rCrit'/>
+            <add val='0' order='0x10' stat='accCombat'/>
+            <set val='379' order='0x08' stat='pAtkSpd'/>
+            <enchant val='0' order='0x0C' stat='pAtk'/>
+            <enchant val='0' order='0x0C' stat='mAtk'/>
+        </for>
+    </item>
+    <item id='9733' name="Dusk Staff Unique">
+        <for>
+            <set val='250' order='0x08' stat='pAtk'/>
+            <set val='270' order='0x08' stat='mAtk'/>
+            <set val='15' order='0x08' stat='rCrit'/>
+            <add val='0' order='0x10' stat='accCombat'/>
+            <set val='379' order='0x08' stat='pAtkSpd'/>
+            <enchant val='0' order='0x0C' stat='pAtk'/>
+            <enchant val='0' order='0x0C' stat='mAtk'/>
+        </for>
+    </item>
+    <item id='9734' name="Dusk Staff Unique Acumen">
+        <for>
+            <set val='250' order='0x08' stat='pAtk'/>
+            <set val='270' order='0x08' stat='mAtk'/>
+            <set val='15' order='0x08' stat='rCrit'/>
+            <add val='0' order='0x10' stat='accCombat'/>
+            <set val='379' order='0x08' stat='pAtkSpd'/>
+            <enchant val='0' order='0x0C' stat='pAtk'/>
+            <enchant val='0' order='0x0C' stat='mAtk'/>
+        </for>
+    </item>
+    <item id='9735' name="Dusk Staff Unique Empower">
+        <for>
+            <set val='250' order='0x08' stat='pAtk'/>
+            <set val='270' order='0x08' stat='mAtk'/>
+            <set val='15' order='0x08' stat='rCrit'/>
+            <add val='0' order='0x10' stat='accCombat'/>
+            <set val='379' order='0x08' stat='pAtkSpd'/>
+            <enchant val='0' order='0x0C' stat='pAtk'/>
+            <enchant val='0' order='0x0C' stat='mAtk'/>
+            <!-- SA: Empower -->
+            <add val='60' order='0x40' stat='mAtk'/>
+            <!-- Enhances damage to target during PvP -->
+            <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+            <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+        </for>
+    </item>
+    <item id='9736' name="Dusk Staff Unique Mana Up">
+        <for>
+            <set val='250' order='0x08' stat='pAtk'/>
+            <set val='270' order='0x08' stat='mAtk'/>
+            <set val='15' order='0x08' stat='rCrit'/>
+            <add val='0' order='0x10' stat='accCombat'/>
+            <set val='379' order='0x08' stat='pAtkSpd'/>
+            <enchant val='0' order='0x0C' stat='pAtk'/>
+            <enchant val='0' order='0x0C' stat='mAtk'/>
+        </for>
+    </item>
+    <item id='9737' name="Dusk Shield Unique">
+        <for>
+            <sub val='8' order='0x10' stat='rEvas'/>
+            <set val='142' order='0x08' stat='sDef'/>
+            <set val='20' order='0x08' stat='rShld'/>
+            <enchant val='0' order='0x0C' stat='sDef'/>
+        </for>
+    </item>
 </list>

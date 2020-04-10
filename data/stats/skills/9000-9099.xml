@@ -139,10 +139,6 @@
             <!-- Movement Speed 640 -->
             <mul order="0x30" stat="stunVuln" val="0.5"/>
             <!-- Stun resistance +50% -->
-            <add order="0x40" stat="DEX" val="2"/>
-            <!-- DEX +2 -->
-            <add order="0x40" stat="WIT" val="2"/>
-            <!-- WIT +2 -->
             <sub order="0x40" stat="cancel" val="50"/>
             <!-- Casting Cancel Probability -50% -->
         </for>
